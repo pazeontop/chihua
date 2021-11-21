@@ -1,0 +1,14 @@
+{
+  "prefix": "/",
+  "main_token": "OTEyMDUxODQ2MTgzNTM4NzY4.YZqUeQ.mqt6Q-nIxoiESc7ckqrmPK7jv74",
+  "developer": ["532965387105599538"],
+  "bot_name":"chihuahua",
+  "emoji":"📩",
+  "color":"BLACK",
+  "color2":"DARKBLUE",
+  "ticket_limit":"1000",
+  "support_role_id":"904784068829388842",
+  "category_id":"904782500650422355",
+  "log_channel_id":"912052289013960805",
+  "role.id":"904784068829388842"
+}
